@@ -1,3 +1,3 @@
 # Página de Apresentação
 
-## Página de apresentação para currículo/portifólio online 
+## Projeto de página de apresentação online para currículo/portifólio
